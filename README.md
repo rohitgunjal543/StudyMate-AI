@@ -32,7 +32,7 @@ StudyMate AI is an AI-powered student productivity assistant designed to help st
 
 ## 📸 Screenshots
 
-"D:\StudyMate Ai dashboard.png"
+![Dashboard](./assets/dashboard.png)
 
 ---
 
